@@ -1,16 +1,13 @@
-## Hi there 👋
+YuriMartins
 
-<!--
-**YuriMartins27/YuriMartins27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Me chamo Yuri Franco Martins da Costa
 
-Here are some ideas to get you started:
+### Cursando:
+- Instituição de ensino: Unip
+- Curso: Sistema de Informação
+- Nível de graduação: Bacharelado
+- Período atual: 2 semestre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Áreas de estudo e interesse:
+- Data Science
+- Machine Learning
